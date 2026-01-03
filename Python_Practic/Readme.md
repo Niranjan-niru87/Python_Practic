@@ -10,7 +10,3 @@
 - If-else conditions
 - For loop and while loop
 - Mini task using loops
-
-## Day 3
-- Lists, Tuples, Dictionaries
-- Student marks mini task
