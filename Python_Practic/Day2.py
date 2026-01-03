@@ -1,10 +1,9 @@
-'''#if , elif ,else statement:
+#if , elif ,else statement:
 age =int(input("Enter the age:"))
 if age>=18:
     print("he/she is an adult")
 elif age<18:
     print("he/she is not an adult")
-
 
 
 #pass fail using above statement
@@ -23,7 +22,7 @@ n=int(input("enter a Number: "))
 if n%2==0:
     print("It is an Even Number")
 elif n%2!=0:
-    print("it is a odd number")'''
+    print("it is a odd number")
     
     
     
