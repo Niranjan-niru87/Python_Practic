@@ -9,6 +9,7 @@
 ## Day 2
 - If-else conditions
 - For loop and while loop
+- Break and Continu
 - Mini task using loops
 
 
