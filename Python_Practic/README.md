@@ -16,3 +16,9 @@
 ## Day 3
 - Lists, Tuples, Dictionaries
 - Student marks mini task
+
+
+## Day 4
+- Python functions
+- Parameters and return
+- Student result mini project
