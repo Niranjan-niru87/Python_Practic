@@ -1,6 +1,6 @@
 #File Handling in Python
 # Opening a file in write mode
-'''file = open("example.txt", "w")
+file = open("example.txt", "w")
 
 
 
@@ -78,20 +78,20 @@ if not os.path.exists("example.txt"):
 
 
 
-'''file=open("text.txt", "w")
+file=open("text.txt", "w")
 file.write("Niru\n")
 file.close()
 file=open("text.txt", "r")
 content=file.read()
-print(content)'''
+print(content)
 
 
-'''import csv
+import csv
 
 with open("student.csv", "r") as file:
     reader = csv.reader(file)
     for row in reader:
-        print(row)'''
+        print(row)
 
 
 file=open("student.txt","w")
