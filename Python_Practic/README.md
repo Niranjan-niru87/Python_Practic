@@ -22,3 +22,8 @@
 - Python functions
 - Parameters and return
 - Student result mini project
+
+## Day 5
+- Python file handling
+- Read, write, append
+- Student data file mini project

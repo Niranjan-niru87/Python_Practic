@@ -1,0 +1,2 @@
+Name:niru,Marks:90
+Name:snipe,Marks:85

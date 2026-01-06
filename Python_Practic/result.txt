@@ -1,0 +1,5 @@
+Name: Niru, Total: 375, Average: 75.0, Result: Pass
+Name: Snipe, Total: 150, Average: 30.0, Result: Fail
+Name: Alex, Total: 300, Average: 60.0, Result: Pass
+Name: Ravi, Total: 100, Average: 20.0, Result: Fail
+Name: Meena, Total: 450, Average: 90.0, Result: Pass
