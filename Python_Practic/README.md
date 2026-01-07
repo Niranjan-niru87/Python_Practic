@@ -27,3 +27,9 @@
 - Python file handling
 - Read, write, append
 - Student data file mini project
+
+
+## Day 6
+- Python OOP(class & Objects,inheritance,polymorphism,encapsulation)
+- Classes and objects
+- Student result system using OOP
