@@ -33,3 +33,10 @@
 - Python OOP(class & Objects,inheritance,polymorphism,encapsulation)
 - Classes and objects
 - Student result system using OOP
+
+
+## Day 7
+- Exception handling
+- try, except, else, finally
+- Safe average calculator
+
