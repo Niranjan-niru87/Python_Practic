@@ -40,3 +40,7 @@
 - try, except, else, finally
 - Safe average calculator
 
+## Day 8
+- Python modules
+- Built-in & external packages
+- pip usage
