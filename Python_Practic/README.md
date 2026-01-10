@@ -44,3 +44,9 @@
 - Python modules
 - Built-in & external packages
 - pip usage
+
+
+## Day 9
+- Virtual environment
+- venv creation & activation
+- Installed numpy inside venv
