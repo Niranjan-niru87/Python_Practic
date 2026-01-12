@@ -50,3 +50,9 @@
 - Virtual environment
 - venv creation & activation
 - Installed numpy inside venv
+
+
+## Day 10
+- NumPy basics
+- Array creation
+- Mathematical operations
