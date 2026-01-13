@@ -56,3 +56,8 @@
 - NumPy basics
 - Array creation
 - Mathematical operations
+
+## Day 11
+- NumPy indexing and slicing
+- Reshaping arrays
+- Mini task on matrix operations
