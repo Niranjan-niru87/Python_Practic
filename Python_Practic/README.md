@@ -61,3 +61,9 @@
 - NumPy indexing and slicing
 - Reshaping arrays
 - Mini task on matrix operations
+
+
+## Day 12
+- NumPy zeros, ones, full
+- Random arrays
+- Broadcasting + mini task
