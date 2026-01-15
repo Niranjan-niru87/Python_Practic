@@ -67,3 +67,11 @@
 - NumPy zeros, ones, full
 - Random arrays
 - Broadcasting + mini task
+
+
+## Day 13
+- Pandas basics
+- DataFrame creation
+- head(), info(), describe()
+- Mini task completed
+
