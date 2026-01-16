@@ -55,6 +55,12 @@ print("Data type of reshaped array:", reshaped_array.dtype)
 
 
 #MINI TASK
+'''1.Creates an array from 1 to 12 
+2.Reshapes it into 3 rows and 4 columns 
+3.Prints: First row Last column 
+4.Sum of all elements 
+5.Mean of all elements'''
+
 import numpy as np
 
 # 1) Create array from 1 to 12

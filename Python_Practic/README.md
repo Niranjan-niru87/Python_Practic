@@ -75,3 +75,8 @@
 - head(), info(), describe()
 - Mini task completed
 
+
+## Day 14
+- Missing values handling
+- dropna() and fillna()
+- Filtering rows using conditions
