@@ -80,3 +80,8 @@
 - Missing values handling
 - dropna() and fillna()
 - Filtering rows using conditions
+
+## Day 15
+- Matplotlib basics
+- Line plot and bar chart
+- Student marks visualization mini task
