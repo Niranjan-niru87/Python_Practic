@@ -85,3 +85,8 @@
 - Matplotlib basics
 - Line plot and bar chart
 - Student marks visualization mini task
+
+## Day 16
+- Scatter plot, histogram, box plot
+- Visual analysis for ML datasets
+- Mini task completed
