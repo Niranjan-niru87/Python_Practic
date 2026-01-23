@@ -90,3 +90,10 @@
 - Scatter plot, histogram, box plot
 - Visual analysis for ML datasets
 - Mini task completed
+
+## Day 17
+- Machine Learning basics
+- Supervised learning
+- Built first Linear Regression model
+
+
