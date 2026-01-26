@@ -97,3 +97,7 @@
 - Built first Linear Regression model
 
 
+## Day 18
+- Model evaluation metrics
+- MAE, MSE, RMSE, R2 Score
+- Tested Linear Regression performance
